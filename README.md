@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 🌱 I’m currently learning JavaScript 
 💞️ I’m looking to collaborate on awesome projects to grade up my skills
 📫 How to reach me 
-      ---> Gmail - damanpreetsingh9999@gmail.com 
+      Gmail - damanpreetsingh9999@gmail.com 
