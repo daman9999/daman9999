@@ -57,9 +57,10 @@
 <!--  -->
 <br/>
 <br/>
+
 <p>&nbsp;<img  width="400 height="170" align="left"  src="https://github-readme-stats.vercel.app/api?username=daman9999&show_icons=true&locale=en" alt="daman9999" /></p>
 <br/>
-<p><img width="400" height="170" align="left" style="width:400px;height:170px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=daman9999&show_icons=true&locale=en&layout=compact" alt="daman9999" /></p>
+<p><img width="400" height="2000" align="right" style="width:400px;height:170px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=daman9999&show_icons=true&locale=en&layout=compact" alt="daman9999" /></p>
 
 <br/>
  <br/>
