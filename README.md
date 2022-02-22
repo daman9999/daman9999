@@ -1,6 +1,6 @@
 
  <h1 align="center">Hii,Damanpreet Singh👋🤩👋 </h1>
-<h3 align="center" style="text-transform:capitalize;">I Develop Awesome Products,Passionate About creating full stack applications</h3>
+<h3 align="center" style="text-transform:capitalize;">I Develop Awesome Products,Passionate About Creating Full Stack Applications</h3>
 <div class="trophiesWrapper" style="display:flex;flex-direction:column;align-items:center;justify-content:center;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daman9999&label=Profile%20views&color=0e75b6&style=flat" alt="daman9999" /> </p>
 
@@ -53,13 +53,12 @@
 <!--  -->
 <br/>
 <br/>
-
 <p>&nbsp;<img  width="400 height="170" align="left"  src="https://github-readme-stats.vercel.app/api?username=daman9999&show_icons=true&locale=en" alt="daman9999" /></p>
-<br/>
-<p><img width="400" height="2000" align="right" style="width:400px;height:170px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=daman9999&show_icons=true&locale=en&layout=compact" alt="daman9999" /></p>
-
-<br/>
+<p><img  align="right" width="400" style="margin:600px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=daman9999&show_icons=true&locale=en&layout=compact" alt="daman9999" /></p>
  <br/>
-<p><img align="left"  width="400 height="170" tyle="width:400px;height:170px;" src="https://github-readme-streak-stats.herokuapp.com/?user=daman9999&" alt="daman9999" /></p>
+ <br/>
+ <br/>
+ <br/>
+<p><img align="left"  width="400 height="270" style="width:400px;height:170px;margin:20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=daman9999&" alt="daman9999" /></p>
 
 
