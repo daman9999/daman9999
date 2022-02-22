@@ -1,9 +1,5 @@
-<head>
 
-
-
-</head>
- <h1 align="center">Hii,Damanpreet Singh</h1>
+ <h1 align="center">Hii,Damanpreet Singh👋🤩👋 </h1>
 <h3 align="center" style="text-transform:capitalize;">I Develop Awesome Products,Passionate About creating full stack applications</h3>
 <div class="trophiesWrapper" style="display:flex;flex-direction:column;align-items:center;justify-content:center;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daman9999&label=Profile%20views&color=0e75b6&style=flat" alt="daman9999" /> </p>
