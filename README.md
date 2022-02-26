@@ -26,7 +26,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a  href="https://twitter.com/daman9699" target="blank"><img style="margin-right:10px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daman9699" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/13560704/damanpreet-singh" target="blank"><img style="margin-right:10px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/13560704/damanpreet-singh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13560704/damanpreet-singh" target="blank"><img style="margin-right:10px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/13560704/damanpreet-singh" height="30" width="40" /></a>
 <a style="margin-right:10px;" href="https://instagram.com/daman_preet__singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daman_preet__singh" height="30" width="40" /></a>
 </p>
 </div>
